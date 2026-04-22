@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://i.redd.it/3ma6nhepxbb81.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: white;
+}
+h1 {
+  font-family: "Times",
+    sans-serif;
+}
+
+h1 {
+  border-radius: 25px;
+  box-sizing: border-box;
+  width: 25%;
+  background-color: darkblue;
+  padding: 10px 7px
+}
