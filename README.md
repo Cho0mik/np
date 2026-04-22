@@ -1,1 +1,1 @@
-# olga-newspaper
+# newspaper
