@@ -1,17 +1,13 @@
 body {
+  
+}
 
 h1 {
   color: white;
-}
-h1 {
-  font-family: "Times",
-    sans-serif;
-}
-
-h1 {
+  font-family: "Times", sans-serif;
   border-radius: 25px;
   box-sizing: border-box;
   width: 25%;
   background-color: darkblue;
-  padding: 10px 7px
+  padding: 10px 7px;
 }
